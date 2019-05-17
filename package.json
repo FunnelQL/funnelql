@@ -1,0 +1,29 @@
+{
+    "name": "funnelql",
+    "version": "1.1.0",
+    "description": "FunnelQL: Funnel Query Language Library",
+    "author": {
+        "name": "info@funnelql.com",
+        "email": "info@funnelql.com",
+        "web": "funnelql.com"
+    },
+    "homepage": "https://funnelql.com/",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FunnelQL/funnelql.git"
+    },
+    "license": "GPL-3.0+",
+    "engines": {
+        "node": "~0.10"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "latest",
+        "grunt-contrib-copy": "latest",
+        "grunt-contrib-cssmin": "latest",
+        "grunt-contrib-uglify": "latest",
+        "grunt-header": "^1.1.0",
+        "grunt-iife": "latest",
+        "matchdep": "latest"
+    }
+}
